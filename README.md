@@ -26,8 +26,7 @@ A Flutter app that displays real-time weather information for any city using the
 - Storing futures in variables to prevent unnecessary API calls
 - Handling loading and error states properly
 
-## Screenshots
-[Add screenshots here]
+
 
 ## Getting Started
 1. Clone the repo
